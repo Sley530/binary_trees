@@ -6,6 +6,7 @@
  *
  * Return: If tree is NULL, return 0, else return balance factor.
  */
+
 int binary_tree_balance(const binary_tree_t *tree)
 {
 	if (tree)
